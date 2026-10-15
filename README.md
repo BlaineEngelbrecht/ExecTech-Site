@@ -11,3 +11,5 @@ Pages: Home, About, Behind the Scenes, Services, Clients, Get Started.
 4. Connect your purchased domain via GitHub Pages settings and your domain DNS when ready.
 
 The founder portrait and brand reference image are in `assets`. The site uses a custom ET favicon and CSS brand styling. Google Fonts requires internet; fallback fonts work offline. No framework or build step is required.
+
+V2: pulsing ET watermark, floating particles, ambient code stream, animated home terminal, highlighted form submit button. Reduced-motion support included.
